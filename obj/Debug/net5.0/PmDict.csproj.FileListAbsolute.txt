@@ -1,0 +1,16 @@
+C:\Users\vinay singh jadon\Desktop\PmDict\bin\Debug\net5.0\PmDict.exe
+C:\Users\vinay singh jadon\Desktop\PmDict\bin\Debug\net5.0\PmDict.deps.json
+C:\Users\vinay singh jadon\Desktop\PmDict\bin\Debug\net5.0\PmDict.runtimeconfig.json
+C:\Users\vinay singh jadon\Desktop\PmDict\bin\Debug\net5.0\PmDict.runtimeconfig.dev.json
+C:\Users\vinay singh jadon\Desktop\PmDict\bin\Debug\net5.0\PmDict.dll
+C:\Users\vinay singh jadon\Desktop\PmDict\bin\Debug\net5.0\ref\PmDict.dll
+C:\Users\vinay singh jadon\Desktop\PmDict\bin\Debug\net5.0\PmDict.pdb
+C:\Users\vinay singh jadon\Desktop\PmDict\obj\Debug\net5.0\PmDict.csprojAssemblyReference.cache
+C:\Users\vinay singh jadon\Desktop\PmDict\obj\Debug\net5.0\PmDict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay singh jadon\Desktop\PmDict\obj\Debug\net5.0\PmDict.AssemblyInfoInputs.cache
+C:\Users\vinay singh jadon\Desktop\PmDict\obj\Debug\net5.0\PmDict.AssemblyInfo.cs
+C:\Users\vinay singh jadon\Desktop\PmDict\obj\Debug\net5.0\PmDict.csproj.CoreCompileInputs.cache
+C:\Users\vinay singh jadon\Desktop\PmDict\obj\Debug\net5.0\PmDict.dll
+C:\Users\vinay singh jadon\Desktop\PmDict\obj\Debug\net5.0\ref\PmDict.dll
+C:\Users\vinay singh jadon\Desktop\PmDict\obj\Debug\net5.0\PmDict.pdb
+C:\Users\vinay singh jadon\Desktop\PmDict\obj\Debug\net5.0\PmDict.genruntimeconfig.cache
